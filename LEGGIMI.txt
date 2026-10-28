@@ -1,8 +1,9 @@
-CASIMIRO & CARAMELLO — Festa finale
+CASIMIRO & CARAMELLO - VERSIONE CORRETTA
 
-1. Estrai TUTTI i file ZIP nella stessa cartella.
-2. Apri index.html in Chrome o Edge.
-3. Prova i suoni dalla schermata iniziale.
-4. Completa le 4 missioni per ascoltare il motivetto finale, vedere la festa animata e stampare il diploma.
+Apri index.html per provare il gioco. Gli audio sono incorporati direttamente in index.html: per aggiornare GitHub basta sostituire index.html (e le immagini se diverse).
 
-NOTA: il finale ha una melodia strumentale originale e testo a schermo sincronizzato; non sono registrate voci cantate. I personaggi ballano tramite animazioni 2D. Il registro Google Sheets non è ancora collegato.
+Tre missioni, 15 domande. Applauso per risposta giusta, ululato per errore, canzone alla festa finale. Nessuna musica durante le domande.
+
+Per pubblicare: carica index.html nella radice del repository GitHub Pages.
+
+AGGIORNAMENTO AUDIO: applauso naturale e ululato piu forte; prova con il pulsante PROVA I SUONI.
