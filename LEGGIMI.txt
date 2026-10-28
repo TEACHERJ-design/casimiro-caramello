@@ -1,6 +1,9 @@
-Casimiro & Caramello - versione collegata al registro Google Sheets.
-Carica tutti i file estratti nella radice del repository GitHub Pages.
-Alla conclusione delle 15 domande viene inviato un POST JSON a Google Apps Script.
-Il browser usa no-cors: controllare il foglio Google per confermare la ricezione.
-Eseguire prima una prova con un nome inventato.
-Non raccogliere dati di minori senza le verifiche privacy della scuola.
+CASIMIRO & CARAMELLO - VERSIONE CORRETTA
+
+Apri index.html per provare il gioco. Gli audio sono incorporati direttamente in index.html: per aggiornare GitHub basta sostituire index.html (e le immagini se diverse).
+
+Tre missioni, 15 domande. Applauso per risposta giusta, ululato per errore, canzone alla festa finale. Nessuna musica durante le domande.
+
+Per pubblicare: carica index.html nella radice del repository GitHub Pages.
+
+AGGIORNAMENTO AUDIO: applauso naturale e ululato piu forte; prova con il pulsante PROVA I SUONI.
