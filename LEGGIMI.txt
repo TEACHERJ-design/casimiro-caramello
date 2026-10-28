@@ -1,0 +1,8 @@
+CASIMIRO & CARAMELLO — Festa finale
+
+1. Estrai TUTTI i file ZIP nella stessa cartella.
+2. Apri index.html in Chrome o Edge.
+3. Prova i suoni dalla schermata iniziale.
+4. Completa le 4 missioni per ascoltare il motivetto finale, vedere la festa animata e stampare il diploma.
+
+NOTA: il finale ha una melodia strumentale originale e testo a schermo sincronizzato; non sono registrate voci cantate. I personaggi ballano tramite animazioni 2D. Il registro Google Sheets non è ancora collegato.
